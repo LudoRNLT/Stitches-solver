@@ -1,5 +1,6 @@
 # Stitches-solver
 Solver for the game "Stitches"
+The project was completed in the third year of my Bachelor's degree (L3).
 
 Basic Rules of Stitches:
 
